@@ -1,0 +1,5 @@
+data:
+  files:
+    data.txt: This is a data file.
+scripts:
+  main.py: print("Hello, world!")
